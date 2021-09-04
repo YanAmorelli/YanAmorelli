@@ -2,8 +2,8 @@
 
  <div>
   <p align="justify"> 
-    I'm graduating at statistical science at ENCE (Escola Nacional de Ciências Estatísticas) and have been working as a develolper for almost a year. I'm a passionate learner 
-    who's always willing to learn new technologies and solve problems and create another ones (hehe). I'm currently interesting in web development and creating some cool features.
+    I'm a Statistics Undergraduate at ENCE (Escola Nacional de Ciências Estatísticas) and have been working as a develolper for almost a year. I'm a passionate learner 
+    who's always willing to learn new technologies and solve problems and create another ones (hehe). I'm currently interested in web development and creating some cool features.
   </p>
  </div> 
 
