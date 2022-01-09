@@ -2,9 +2,9 @@
 
  <div>
   <p align="justify"> 
-    I'm a Statistics Undergraduate at ENCE (Escola Nacional de Ciências Estatísticas) and have been working as a develolper for almost a year. I'm a passionate learner 
+    I'm a Statistics Undergraduate at ENCE (Escola Nacional de Ciências Estatísticas) and have been working as a develolper for more than a year. I'm a passionate learner 
     who's always willing to learn new technologies and solve problems and create another ones (hehe). I'm currently interested in web development and creating some cool features.
-  </p>
+   <p/>
  </div> 
 
 <div style="display: inline_block";>
@@ -18,6 +18,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/angular_simple.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blender.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
 </div>
 
